@@ -1,0 +1,39 @@
+.header
+{
+    text-align:center;
+    width: 980px;
+    height: 140px;
+    background: rgb(2, 139, 189);
+    color: white;
+}
+.sidebar
+{
+    text-align: center;
+    width: 270px;
+    height: 550px;
+    background: rgb(2, 139, 189);
+    color: white;
+    padding-top: 300px;
+    
+}
+.contend
+{
+    text-align:center;
+    width: 690px;
+    height: 450px;
+    background: rgb(2, 139, 189);
+    color: white;
+    padding-top:400px;
+    margin-top: -850px;
+    margin-left: 290px;  
+}
+.footer
+{
+    text-align:center; 
+    width: 980px;
+    height: 70px;
+    background: rgb(2, 139, 189);
+    color: white;
+    padding-top: 1px;
+    margin-top: 20px;  
+}
